@@ -1,6 +1,6 @@
 ---
 - name: Hello World!
-  hosts: all
+  hosts: 10.128.0.3
  
   tasks:
  
